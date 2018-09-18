@@ -31,4 +31,4 @@ while 1:
 
 plt.show()
 print ("Complete")
-print(sig_list)
+# print(sig_list)
